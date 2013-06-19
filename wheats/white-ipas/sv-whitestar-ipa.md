@@ -1,6 +1,6 @@
-# Silicon Valley Whitewater IPA
+# Silicon Valley Whitestar IPA
 
-Whitewater IPA is my first attempt at a white with stronger hop flavor, following the likes of Deschutes Chainbreaker.
+Whitestar IPA is my first attempt at a white with stronger hop flavor, following the likes of Deschutes Chainbreaker.
 
 ## Ingredients
 
