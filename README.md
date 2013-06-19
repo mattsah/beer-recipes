@@ -33,6 +33,7 @@ All recipes should contain a list of equipment (we're more forgiving on this) wh
 - **OG**: Original Gravity (determined with a hydrometer)
 - **Primary**: Short for primary fermentation where yeast convert majority of sugar to alcohol and CO2
 - **Secondary**: A secondary fermentation where beer is transferred from the primary to a clean container for additional fermentation/settling which will "condition" the beer.
+- **Wort**: Unfermented beer.
 
 ### Structure of Recipes
 
