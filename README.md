@@ -22,19 +22,26 @@ All recipes should contain a list of equipment (we're more forgiving on this) wh
 
 ### Definitions
 
+- **Airlock**: A device which will prevent oxygen and bacteria from entering a fermenter but allow CO2 to escape.
+- **Carboy**: A large container with a short neck commonly used for primary fermentation
+- **DME**: Dried Malt Extract
+- **FG**: Final Gravity (determined with a hydrometer), also called Terminal Gravity (TG)
+- **Krausen**: The foamy head which forms on top of wort during active fermentation
+- **LME**: Liquid Malt Extract
 - **OG**: Original Gravity (determined with a hydrometer)
-- **FG**: Final Gravity (determined with a hydrometer)
+- **Primary**: Short for primary fermentation where yeast convert majority of sugar to alcohol and CO2
+- **Secondary**: A secondary fermentation where beer is transferred from the primary to a clean container for additional fermentation/settling which will "condition" the beer.
 
-### Structure
+### Structure of Recipes
 
 The structure of recipes should roughly include all of the following sections:
 
-- Introduction (with name of beer as heading and a quick intro to what it is and what the goal is).
-- Ingredients (bullet point list of ingredients, should include all ingredients)
+- Introduction (with name of beer as heading and introduction to the beer including but not limited to taste or any information about the goal of the beer for future revisions).
+- Ingredients (bullet point list of ingredients, should include **all** ingredients)
 - Equipment (bullet point list of equipment not considered part of "The Usual" above)
-- Procedure (Mash and boil description ending with OG)
-  - Primary (Should not the FG at the end)
-  - Secondary (optional if your recipe suggests one)
-  - Bottling (specify a suggested priming / bottling method)
+- Procedure (mash and boil description ending with OG)
+  - Primary (should note information about primary fermentation including temperatures and the FG at the end)
+  - Secondary (optional if your recipe suggests and why)
+  - Bottling (give guidelines for bottling, feel free to copy from another recipe if standard bottling is OK, but don't just say "standard bottling.")
 
- Add directories as needed for various styles of beer.  Use a - instead of a space.  All recipes should be in markdown format and should begin with a short 2 - 3 character namespace for the location the recipe was attempted, for example `sv-name.md` where `sv` is used for "Silicon Vallye" and `name` is the name of the beer.
+ Add directories as needed for various styles of beer.  Use a - instead of a space.  All recipes should be in markdown format and should begin with a short 2 - 3 character namespace for the location the recipe was attempted, for example `sv-name.md` where `sv` is used for "Silicon Valley" and `name` is the name of the beer.
