@@ -39,6 +39,7 @@ The structure of recipes should roughly include all of the following sections:
 - Introduction (with name of beer as heading and introduction to the beer including but not limited to taste or any information about the goal of the beer for future revisions).
 - Ingredients (bullet point list of ingredients, should include **all** ingredients)
 - Equipment (bullet point list of equipment not considered part of "The Usual" above)
+- Preamble (optional information you feel relevant to the brewer before starting mash/boil which may need time to perform)
 - Procedure (mash and boil description ending with OG)
   - Primary (should note information about primary fermentation including temperatures and the FG at the end)
   - Secondary (optional if your recipe suggests and why)
