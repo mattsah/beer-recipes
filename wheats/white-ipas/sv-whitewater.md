@@ -44,6 +44,8 @@ OG: 1.075
 
 The WLP500 has a reputation for a "late start."  Do not be surprised if you don't see a lot of activity within the first 48 hours.  Using a starter or two viles may improve the initial fermentation.  The recommended fermentation time is 14 days, however you can take a gravity reading after the first week.
 
+Keep temperature steady between 70 - 74 and let rise slowly to 78 for the last week.
+
 FG: 1.012
 
 ### Secondary (Optional)

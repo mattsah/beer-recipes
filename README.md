@@ -36,3 +36,5 @@ The structure of recipes should roughly include all of the following sections:
   - Primary (Should not the FG at the end)
   - Secondary (optional if your recipe suggests one)
   - Bottling (specify a suggested priming / bottling method)
+
+ Add directories as needed for various styles of beer.  Use a - instead of a space.  All recipes should be in markdown format and should begin with a short 2 - 3 character namespace for the location the recipe was attempted, for example `sv-name.md` where `sv` is used for "Silicon Vallye" and `name` is the name of the beer.
