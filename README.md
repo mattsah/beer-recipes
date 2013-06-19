@@ -2,6 +2,8 @@
 
 This repository contains beer recipes organized roughly by type.  All recipes are welcome from Mr. Beer to All Grains.
 
+By submitting recipes to this repository as pull requests you agree that you have the rights to do so and hereby grant everyone the right to use, modify for use, or re-distribute this recipe.  Additionally, distribution of modifications is permitted so long as attribution is given to the copyright holder or the name is changed.
+
 ## Notes
 
 All brewers should read recipes and procedures in full taking note and highlighting the required equipment.  We are not perfect we might mention something in the procedure which is not reflected in the equipment list.  If you have any questions, open an issue and we'll try to help.
